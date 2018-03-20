@@ -1,0 +1,104 @@
+Array = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+SinglyLinkedList<T>::deleteFromHead() using SinglyLinkedList<T>::insertHead() to populate
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+SinglyLinkedList<T>::deleteFromHead() using SinglyLinkedList<T>::insertTail() to populate
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+SinglyLinkedList<T>::deleteFromTail() using SinglyLinkedList<T>::insertTail() to populate
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+SinglyLinkedList<T>::deleteFromTail() using SinglyLinkedList<T>::insertHead() to populate
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+SinglyLinkedList<T>::deleteIndex() forward iteration
+0 : True
+1 : True
+2 : True
+3 : True
+4 : True
+5 : True
+6 : True
+7 : True
+8 : True
+9 : True
+SinglyLinkedList<T>::deleteIndex() reverse iteration
+9 : True
+8 : True
+7 : True
+6 : True
+5 : True
+4 : True
+3 : True
+2 : True
+1 : True
+0 : True
+SinglyLinkedList<T>::deleteIndex() for non-existing elements
+10 : False
+11 : False
+12 : False
+13 : False
+14 : False
+15 : False
+16 : False
+17 : False
+18 : False
+19 : False
+SinglyLinkedList<T>::isInList() for existing elements
+0 : True
+1 : True
+2 : True
+3 : True
+4 : True
+5 : True
+6 : True
+7 : True
+8 : True
+9 : True
+SinglyLinkedList<T>::isInList() for non-existing elements
+10 : False
+11 : False
+12 : False
+13 : False
+14 : False
+15 : False
+16 : False
+17 : False
+18 : False
+19 : False
+SinglyLinkedList<T>::isEmpty() for empty list
+True
+SinglyLinkedList<T>::isEmpty() for non-empty list
+False
